@@ -57,7 +57,7 @@ The following commands must be executed in your local machine
 Get the Ansible Playbook
 
 ```
-git clone https://github.com/consul/installer
+git clone https://github.com/Ariwonto/installer
 cd installer
 ```
 
